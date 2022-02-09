@@ -6,9 +6,14 @@
 	</head>
 	
 	<body>
-		This is the index view jsp
-		<input type="Submit" name="addNum" value="Add Numbers!">
-		<input type="Submit" name="guess" value="Guessing Game!">
-		<input type="Submit" name="multNum" value="Multiply Numbers!">
+		<a href= "addNumbers">
+   <button> Add Numbers! </button>
+    </a>  
+    <a href = "guessingGame">
+		<button> Guessing Game! </button>
+		</a>
+		<a href = "multiplyNumbers">
+		<button> Multiply Numbers! </button>
+		</a>
 	</body>
 </html>
